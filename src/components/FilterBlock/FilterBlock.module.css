@@ -1,0 +1,15 @@
+.FilterBlock {
+	display: flex;
+	justify-content: space-between;
+	justify-content: center;
+	width: 100%;
+	padding: 10px;
+	background-color: aliceblue;
+	border-radius: 12px;
+}
+.Input {
+	padding: 10px 15px;
+	border-radius: 12px;
+	background-color: white;
+	border: none;
+}
